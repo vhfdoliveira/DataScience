@@ -3,6 +3,7 @@
 ## AUTHORS
 
 Alex Furtunato
+
 Victor Hugo F. de Oliveira
 
 
